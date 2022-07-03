@@ -43,12 +43,12 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=itsvaibhavmishra&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itsvaibhavmishra&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=itsvaibhavmishra&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itsvaibhavmishra&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=itsvaibhavmishra&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=itsvaibhavmishra&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
