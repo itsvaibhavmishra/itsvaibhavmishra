@@ -1,28 +1,4 @@
 
-
-<!--
-**itsvaibhavmishra/itsvaibhavmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/itsvaibhavmishra/ritik307"/> 
- <img src="https://badges.pufler.dev/repos/itsvaibhavmishra"/>
- <img src="https://badges.pufler.dev/commits/monthly/itsvaibhavmishra" />
-
-</p>
-
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
