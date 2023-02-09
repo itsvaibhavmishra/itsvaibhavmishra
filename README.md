@@ -1,9 +1,5 @@
 <!-- Overview -->
 
-<p align="left">
-I'm a developer 🧑‍💻
-</p>
-
 <h2 align="left">Technology Stack <img src="https://github.com/itsvaibhavmishra/itsvaibhavmishra/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="left">
