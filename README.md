@@ -32,8 +32,8 @@
 <br>
 
 <p align = "left">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=itsvaibhavmishra&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itsvaibhavmishra&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats-sigma-five.vercel.app/api?username=itsvaibhavmishra&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsvaibhavmishra&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "left">
