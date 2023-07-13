@@ -1,7 +1,7 @@
-# 💫 About Me:
+## 💫 About Me:
 🌱 Learning something new everyday <br> 👨🏻‍💻 I'm looking forward to collaborate with other dev's
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![MongoDB](https://img.shields.io/badge/mongodb-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React.JS](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -20,14 +20,21 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  
-# 📊 GitHub Stats:
+
+
+## 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsvaibhavmishra&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsvaibhavmishra&theme=moonlight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsvaibhavmishra&theme=moonlight)
 
 ![](https://github-readme-stats.vercel.app/api?username=itsvaibhavmishra&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsvaibhavmishra&theme=nightowl&hide_border=false)<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvaibhavmishra/itsvaibhavmishra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvaibhavmishra/itsvaibhavmishra/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsvaibhavmishra/itsvaibhavmishra/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
