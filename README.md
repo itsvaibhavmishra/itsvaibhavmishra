@@ -30,12 +30,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=itsvaibhavmishra&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsvaibhavmishra&theme=nightowl&hide_border=false)<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvaibhavmishra/itsvaibhavmishra/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvaibhavmishra/itsvaibhavmishra/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsvaibhavmishra/itsvaibhavmishra/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
